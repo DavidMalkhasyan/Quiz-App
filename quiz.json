@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the main function of the ALU (Arithmetic Logic Unit)?",
+    "options": ["Manage memory", "Store data", "Perform arithmetic and logic operations", "Control input/output"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the purpose of the CPU's control unit?",
+    "options": ["Direct the operation of the processor", "Perform calculations", "Store data", "Control memory access"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is a type of computer memory that retains data even when powered off?",
+    "options": ["RAM", "Non-volatile memory", "Cache memory", "Register"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of cache memory in a CPU?",
+    "options": ["To hold user data", "To store frequently accessed data", "To manage input/output operations", "To execute instructions"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which instruction set architecture (ISA) is used by most modern desktop CPUs?",
+    "options": ["ARM", "MIPS", "x86", "RISC-V"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the difference between RISC and CISC architectures?",
+    "options": ["RISC is faster than CISC", "CISC is more energy-efficient than RISC", "RISC uses a smaller set of simpler instructions, while CISC uses a larger set of complex instructions", "RISC processors are used only in mobile devices"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is an open-source operating system?",
+    "options": ["macOS", "Windows", "Linux", "iOS"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which Linux command is used to display the current working directory?",
+    "options": ["pwd", "ls", "cd", "dir"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which Linux command is used to change the current directory?",
+    "options": ["pwd", "cd", "ls", "mkdir"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which command in Linux is used to list the contents of a directory?",
+    "options": ["rm", "ls", "cat", "touch"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In Linux, what is the file extension for executable files?",
+    "options": [".bin", ".exe", ".out", ".run"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the role of the kernel in Linux?",
+    "options": ["It is responsible for networking", "It manages hardware resources", "It provides the graphical user interface", "It stores files on disk"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the Linux command to display the manual page for a command?",
+    "options": ["man", "info", "help", "guide"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the purpose of the `chmod` command in Linux?",
+    "options": ["To change file permissions", "To change the current directory", "To remove files", "To display file contents"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is a package manager used in Linux?",
+    "options": ["npm", "apt", "pip", "maven"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In Linux, what is the purpose of the `grep` command?",
+    "options": ["Create files", "Search for patterns in files", "Change file permissions", "List directory contents"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the role of the bootloader in Linux?",
+    "options": ["To manage user accounts", "To load the kernel into memory", "To handle file systems", "To display the graphical interface"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which Linux command is used to display active processes?",
+    "options": ["top", "bg", "ps", "kill"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is a type of virtual memory used in Linux?",
+    "options": ["Swap space", "RAM", "Cache", "Flash storage"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In Linux, what does the `sudo` command do?",
+    "options": ["Execute commands with superuser privileges", "Show disk usage", "Update system packages", "Change the password"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which protocol is commonly used for secure remote access to Linux systems?",
+    "options": ["FTP", "SSH", "Telnet", "HTTP"],
+    "correctAnswer": 1
+  }
+]
